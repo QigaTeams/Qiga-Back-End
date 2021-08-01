@@ -1,5 +1,5 @@
 # Proje Hakkında
-Bu proje Qiga Şirketinin Temmuz 2021 tarihinde Prometheus ekibine verdiği görevlerin Front-End Kodlarını içermektedir.
+Bu proje Qiga Şirketinin Temmuz 2021 tarihinde Prometheus ekibine verdiği görevlerin Back-End Kodlarını içermektedir.
 
 ## Görevler
 + Hikaye
